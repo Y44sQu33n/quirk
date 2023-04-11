@@ -38,7 +38,7 @@ export default class SupportScreen extends React.Component<ScreenProps> {
       <ScrollView
         style={{
           paddingTop: Constants.statusBarHeight + 48,
-          backgroundColor: theme.lightOffwhite,
+          backgroundColor: "orange",
           flex: 1,
           paddingLeft: 24,
           paddingRight: 24,
